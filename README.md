@@ -7,7 +7,7 @@ and Child class, but the logics are different according to their requirments. Me
   and the arguments/inputs.
 
 
-The method in the Parent class is called overriden method.The method signature/functionality that is rewwritten in the Child class is called 
+The method in the Parent class is called overriden method.The method signature/functionality that is rewritten in the Child class is called 
 overriding method.
 
 

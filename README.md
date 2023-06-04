@@ -2,8 +2,8 @@
 
 
 Overriding is a good example of Runtime polymorphism. Runtime polymorphism is also called dynamic binding. In the overriding concept,the child class
-extends the Parent class. So, overriding means rewriting the parents functionality in the child class. Method signature is exactly the same in Parent class 
-and Child class,but the logics are different according to their requirments. Method signature means the method name,method data type,
+extends the Parent class. So, overriding means rewriting the parents functionality in the child class. Method signature is exactly the same in both Parent class 
+and Child class, but the logics are different according to their requirments. Method signature means the method name,method data type,
   and the arguments/inputs.
 
 

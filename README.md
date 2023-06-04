@@ -11,8 +11,7 @@ The method in the Parent class is called overriden method.The method signature/f
 overriding method.
 
 
-We can prevent overriding by using the final keyword in the method.If we use the final keyword in a class you cannot extend the parent class or any
-other classes. Also, if we use the final keyword in a varible, no modifications are allowed. We cannot change the values.The values are fixed.
+We can prevent overriding by using the final keyword in the method.If we use the final keyword in a class you cannot extend that final class  Also, if we use the final keyword in a varible, no modifications are allowed for that varible. We cannot change the values.The values are fixed.
 
 While overriding, the return method's data type must be the same with its return(varible) data type. The return methods take the inputs,process the
 inputs and return the results to the caller.

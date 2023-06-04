@@ -17,5 +17,5 @@ While overriding, the return method's data type must be the same with its return
 inputs and return the results to the caller.
 
 
-Note: When the method returns the values,it gives the returning data to the caller. The caller will store the result in a varible and that varible data
+Note: When the method returns the values, it gives the returning data to the caller. The caller will store the result in a varible and that varible data
 type should be the same with the return method's data type.

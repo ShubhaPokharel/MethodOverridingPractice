@@ -13,7 +13,7 @@ overriding method.
 
 We can prevent overriding by using the final keyword in the method.If we use the final keyword in a class you cannot extend that final class  Also, if we use the final keyword in a varible, no modifications are allowed for that varible. We cannot change the values.The values are fixed.
 
-While overriding, the return method's data type must be the same with its return(varible) data type. The return methods take the inputs,process the
+While overriding, the return method's data type must be the same with its return(varible) data type. The return methods take the inputs, process the
 inputs and return the results to the caller.
 
 

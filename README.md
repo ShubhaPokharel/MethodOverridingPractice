@@ -21,3 +21,12 @@ Overridden method and Overriding method data type must be eaxctly the same.
 
 Note: When the method returns the values, it gives the returning data to the caller. The caller will store the result in a varible and that varible data
 type should be the same with the return method's data type.
+
+Benefits of Method Overriding:
+
+1. We can reuse the code.
+
+2. It makes the code more readable avoiding unused code. 
+
+3. It helps to call the correct method at runtime.
+
